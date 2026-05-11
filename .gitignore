@@ -26,3 +26,6 @@ dist-ssr
 # Local-only project guides (not for remote)
 AGENTS.md
 CLAUDE.md
+
+# Claude Code local state (settings, worktrees, etc.)
+.claude/
