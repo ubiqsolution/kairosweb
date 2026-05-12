@@ -8,6 +8,7 @@ import Steps from './sections/Steps'
 import Testimonials from './sections/Testimonials'
 import FAQ from './sections/FAQ'
 import CTAFooter from './sections/CTAFooter'
+import BackToTop from './sections/BackToTop'
 import './App.css'
 
 export default function App() {
@@ -25,6 +26,7 @@ export default function App() {
         <FAQ />
         <CTAFooter />
       </main>
+      <BackToTop />
     </>
   )
 }
